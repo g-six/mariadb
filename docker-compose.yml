@@ -39,4 +39,4 @@ services:
 networks:
   default:
     external:
-      name: kfe-network
+      name: internal-network
